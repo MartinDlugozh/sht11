@@ -1,0 +1,6 @@
+SHT11 pcb pinout
+
+1 - GND
+2 - DATA
+3 - SCK
+4 - Vcc
